@@ -21,3 +21,4 @@ This lab simulates a basic MIPS processor.
 ## Registers Format
 ![alt text](https://github.com/VaughanEric/Story/raw/master/Registers.png "MIPS Registers")
 The program counter (PC), which points to the next instruction to be called, is also included at the bottom.
+# EF152Project
